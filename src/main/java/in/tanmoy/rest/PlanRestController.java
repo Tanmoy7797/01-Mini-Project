@@ -1,6 +1,6 @@
 package in.tanmoy.rest;
 
-import java.util.List
+import java.util.List;
 import java.util.Map;
 
 import org.hibernate.annotations.ValueGenerationType;
